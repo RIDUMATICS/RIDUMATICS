@@ -1,6 +1,6 @@
 🔥 My name is Ridwan Onikoyi I am a backend developer.
 
-🙏🏻 I love coding and spending my time writing open-source code.
+🙏🏻 I love coding and spending my time learning new skills (check back in three months for new skills😁).
 
 My Stack is mainly JS
 
