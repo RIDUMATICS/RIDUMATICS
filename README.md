@@ -11,6 +11,7 @@ My Stack is mainly JS
 - - Redis
 - Devops
 - - Github Actions
-- - DockeR
+- - Docker
+- - AWS (EC2)
 
 🙃 Do you want me to contribute to your project? Email me at: onikoyiridwan@gmail.com
