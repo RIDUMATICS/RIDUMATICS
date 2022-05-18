@@ -15,3 +15,5 @@ My Stack is mainly JS
 - - AWS (EC2)
 
 🙃 Do you want me to contribute to your project? Email me at: onikoyiridwan@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridumatics&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
